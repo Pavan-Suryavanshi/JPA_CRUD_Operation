@@ -1,4 +1,26 @@
 # JPA_CRUD_Operation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 first create the project in the eclipse that is file->new->spring starter project->
 In the main package for ex:com.data right click and create sub packages
 pakages->1)Controller  2)Entity  3)Repository  4)Service
