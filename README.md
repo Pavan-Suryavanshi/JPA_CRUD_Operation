@@ -38,5 +38,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 
 Create a database in the mysql ex:student_db 
 for the dialect file go to google search dialect for jpa and then copy the sql link there and then paste in front of the dialect
+we using the dialect because it can use any databases like the mysql or Oracle only we have to copy paste the link of the database 
 The ddl-auto will be first create then after running once in second time it will replace with update like
 spring.jpa.hibernate.ddl-auto=update
+we provided the spring.jpa.show.sql=true which shows the sql queries which perform on the console while executing the project
